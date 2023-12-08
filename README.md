@@ -30,5 +30,5 @@ We welcome contributions and improvements to the templates. If you identify issu
 
 ### License:
 
-This repository is licensed under [MIT License](https://opensource.org/license/mit/), allowing for open collaboration and widespread use within the NLPAICS community.
+This repository is licensed under [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), allowing for open collaboration and widespread use within the NLPAICS community.
 
